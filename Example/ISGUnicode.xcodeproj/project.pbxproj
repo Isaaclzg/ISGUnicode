@@ -39,7 +39,7 @@
 /* Begin PBXFileReference section */
 		20273AA30F86F7F71EC25C1B /* Pods-ISGUnicode_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ISGUnicode_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ISGUnicode_Tests/Pods-ISGUnicode_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		2E74DE1C1CA867506F3FEB0D /* Pods_ISGUnicode_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ISGUnicode_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		3F1F955105E4816675B679CE /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		3F1F955105E4816675B679CE /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		4E603FD53F964EEA4A7BC3EE /* Pods-ISGUnicode_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ISGUnicode_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-ISGUnicode_Example/Pods-ISGUnicode_Example.release.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* ISGUnicode_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ISGUnicode_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -63,9 +63,9 @@
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7CE3854B2DB3C52BB9325265 /* Pods-ISGUnicode_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ISGUnicode_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ISGUnicode_Example/Pods-ISGUnicode_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		94C078D38B785B240B4392B4 /* ISGUnicode.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = ISGUnicode.podspec; path = ../ISGUnicode.podspec; sourceTree = "<group>"; };
+		94C078D38B785B240B4392B4 /* ISGUnicode.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ISGUnicode.podspec; path = ../ISGUnicode.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		B07C6BE2A633F80DB9987849 /* Pods_ISGUnicode_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ISGUnicode_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		FD3B02B1DC1CFBF813C0B290 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		FD3B02B1DC1CFBF813C0B290 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		FF7AEF8760655E8FA82CACFC /* Pods-ISGUnicode_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ISGUnicode_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ISGUnicode_Tests/Pods-ISGUnicode_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 

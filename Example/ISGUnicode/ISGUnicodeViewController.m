@@ -7,7 +7,7 @@
 //
 
 #import "ISGUnicodeViewController.h"
-
+#import <Foundation/Foundation.h>
 @interface ISGUnicodeViewController ()
 
 @end

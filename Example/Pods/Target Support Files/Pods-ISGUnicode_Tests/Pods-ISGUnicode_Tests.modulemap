@@ -1,0 +1,6 @@
+framework module Pods_ISGUnicode_Tests {
+  umbrella header "Pods-ISGUnicode_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
