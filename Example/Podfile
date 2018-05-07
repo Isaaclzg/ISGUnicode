@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ISGUnicode_Example' do
+  pod 'ISGUnicode', :path => '../'
+
+  target 'ISGUnicode_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
