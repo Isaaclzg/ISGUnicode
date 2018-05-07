@@ -5,20 +5,14 @@
 [![License](https://img.shields.io/cocoapods/l/ISGUnicode.svg?style=flat)](https://cocoapods.org/pods/ISGUnicode)
 [![Platform](https://img.shields.io/cocoapods/p/ISGUnicode.svg?style=flat)](https://cocoapods.org/pods/ISGUnicode)
 
-## Example
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+## 使用方法
+ `pod install` 即可
 
 ## Requirements
 
 ## Installation
 
-ISGUnicode is available through [CocoaPods](https://cocoapods.org). To install
-it, simply add the following line to your Podfile:
-
-```ruby
-pod 'ISGUnicode'
-```
+pod 'ISGUnicode', '~> 0.1.0'
 
 ## Author
 
