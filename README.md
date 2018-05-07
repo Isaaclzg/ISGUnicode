@@ -5,9 +5,8 @@
 [![Platform](https://img.shields.io/cocoapods/p/ISGUnicode.svg?style=flat)](https://cocoapods.org/pods/ISGUnicode)
 
 ## 使用方法
- `pod install` 即可
 
-## Requirements
+ `pod install` 即可
 
 ## Installation
 
