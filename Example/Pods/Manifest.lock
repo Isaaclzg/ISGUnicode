@@ -1,5 +1,5 @@
 PODS:
-  - ISGUnicode (0.1.0)
+  - ISGUnicode (1.0)
 
 DEPENDENCIES:
   - ISGUnicode (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  ISGUnicode: 2101749a152675f231640cf813456b0527bd1bc3
+  ISGUnicode: ff62f47e40a8e97a874fda83d2d28de18c65436f
 
 PODFILE CHECKSUM: 47431645b35d2bcc5aa2d834149b692cd6149c48
 

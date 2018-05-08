@@ -1,6 +1,7 @@
 //
 //  ISGUnicode.m
-//  Demo01
+//  控制台输出中文
+//  简书：https://www.jianshu.com/u/7e1b920cdac1
 //
 //  Created by Isaac on 2018/5/7.
 //  Copyright © 2018年 Isaac. All rights reserved.
@@ -46,13 +47,6 @@ static inline void ml_swizzleSelector(Class class, SEL originalSelector, SEL swi
         ml_swizzleSelector(class, @selector(descriptionWithLocale:indent:), @selector(ml_descriptionWithLocale:indent:));
     });
 }
-
-/**
- *  我觉得
- *  可以把以下的方法放到一个NSObject的category中
- *  然后在需要的类中进行swizzle
- *  但是又觉得这样太粗暴了。。。。
- */
 
 - (NSString *)ml_description {
     return [[self ml_description] stringByReplaceUnicode];

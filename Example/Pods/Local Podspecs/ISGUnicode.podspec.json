@@ -1,6 +1,6 @@
 {
   "name": "ISGUnicode",
-  "version": "0.1.0",
+  "version": "1.0",
   "summary": "ISGUnicode.",
   "description": "TODO: 控制台输出中文.",
   "homepage": "https://github.com/Isaaclzg/ISGUnicode",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/Isaaclzg/ISGUnicode.git",
-    "tag": "0.1.0"
+    "tag": "1.0"
   },
   "social_media_url": "https://www.jianshu.com/u/7e1b920cdac1",
   "platforms": {
