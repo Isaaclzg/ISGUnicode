@@ -10,8 +10,8 @@
 
 ## Installation
 
-```pod 'ISGUnicode', '~> 1.0'
-```
+`pod 'ISGUnicode', '~> 1.0'
+`
 ## Author
 
 Isaaclzg, isaac_gang@163.com
